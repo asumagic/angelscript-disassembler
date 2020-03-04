@@ -1,0 +1,5 @@
+*.cflags
+*.cxxflags
+*.o
+delete.me
+bin/asbuild
